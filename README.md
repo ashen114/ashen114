@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ashen114)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
@@ -45,5 +43,5 @@ This is **Ashen114**/**阿沈是也** from China, base on ShenZhen.
   - Blog posts: [https://ashen114.github.io/](https://ashen114.github.io/)
   - QQ: 1215772764
 
-[![blog](https://github-readme-stats.vercel.app/api/pin/?username=ashen114&repo=ashen114.github.io)](https://github.com/ashen114/ashen114.github.io)
-[![PPAP.live](https://github-readme-stats.vercel.app/api/pin/?username=ashen114&repo=CodingFun)](https://github.com/ashen114/CodingFun)
+[![ashen114.github.io](https://github-readme-stats.vercel.app/api/pin/?username=ashen114&repo=ashen114.github.io)](https://github.com/ashen114/ashen114.github.io)
+[![CodingFun](https://github-readme-stats.vercel.app/api/pin/?username=ashen114&repo=CodingFun)](https://github.com/ashen114/CodingFun)

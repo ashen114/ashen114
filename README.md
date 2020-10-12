@@ -1,3 +1,24 @@
+<style>
+    .skill,.repo{
+        margin: 10px;
+        display: flex;
+        align-items: center;
+        flex-direction: row;
+        justify-content: space-around;
+    }
+    .skill a, .repo a{
+        text-decoration: none;
+        border-bottom: none;
+    }
+    .fav{
+        clear: both;
+    }
+    .fav img{
+        margin: 0 10px 0 0;
+        float: left;
+    }
+</style>
+
 <h2>
  Hi there 👋 This is **Ashen**(**阿沈**) from China, base on ShenZhen.
 </h2>

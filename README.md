@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 
 > Be interested in these art
 
+<!-- ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular&logoColor=fff) -->
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F2AA24?style=flat-square&logo=JavaScript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=fff)
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=fff)
-<!-- ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular&logoColor=fff) -->
 ![Node](https://img.shields.io/badge/-Node-333?style=flat-square&logo=Node.js&logoColor=#689F63)
 ![Electron](https://img.shields.io/badge/-Electron-2B2E3B?style=flat-square&logo=Electron&logoColor=#9FEAF9)
 ![Webpack](https://img.shields.io/badge/-Webpack-2B3A42?style=flat-square&logo=Webpack&logoColor=#55A7DD)

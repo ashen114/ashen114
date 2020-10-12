@@ -5,6 +5,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashen114&hide=html&layout=compact)
 
 - 🌱 I’m currently learning: 
+
     <img src="https://img.shields.io/badge/-JavaScript-F2AA24?style=flat-square&logo=JavaScript&logoColor=000" />
     <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=fff" />
     <img src="https://img.shields.io/badge/-Vue-1f8e3c?style=flat-square&logo=Vue.js&logoColor=fff" />

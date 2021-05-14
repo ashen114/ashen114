@@ -19,6 +19,11 @@
   - Blog : [https://ashen114.github.io/](https://ashen114.github.io/)
   - Email: 1215772764@qq.com / guxs2016@gmail.com
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/mpw0311/count.svg" />
+</p>
+
 <!--
 ![https://github-readme-stats.vercel.app/api/pin/?username=ashen114&repo=ashen114.github.io](https://github-readme-stats.vercel.app/api/pin/?username=ashen114&repo=ashen114.github.io)
 ![https://github-readme-stats.vercel.app/api/pin/?username=ashen114&repo=CodingFun](https://github-readme-stats.vercel.app/api/pin/?username=ashen114&repo=CodingFun)

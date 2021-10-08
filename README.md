@@ -1,7 +1,6 @@
 
 ## 阿沈是也
 
-![](https://github-readme-stats.vercel.app/api?username=ashen114)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashen114&hide=html&layout=compact)
 
 - 🌱 正在学习中: 
@@ -16,7 +15,7 @@
     <img src="https://img.shields.io/badge/-React-282C34?style=flat-square&logo=React&logoColor=61DAFB" />
 - 💻 血肉苦弱，机械飞升
 - 📫 联系方式:
-  - 博客: [https://ashen114.github.io/](https://ashen114.github.io/)
+  - 博客: [https://ashen114.github.io/](https://ashen114.github.io/) / [https://github.com/ashen114/my-blog](https://github.com/ashen114/my-blog)
   - 邮件: 1215772764@qq.com / guxs2016@gmail.com
 
 <p align="center"> 

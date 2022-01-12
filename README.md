@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular&logoColor=fff" />
     <img src="https://img.shields.io/badge/-React-282C34?style=flat-square&logo=React&logoColor=61DAFB" />
 - 📫 联系方式:
-  - 博客: [https://ashen114.github.io/](https://ashen114.github.io/) / [https://blog.ashen.icu](https://blog.ashen.icu)
+  - 博客: [https://ashen114.github.io](https://ashen114.github.io) / [https://blog.ashen.icu](https://blog.ashen.icu)
   - 邮件: 1215772764@qq.com / guxs2016@gmail.com
 
 <p align="center"> 
